@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "jUIGnUNcbgvdVOrIh+IXD224IkA=",
+			"path": "github.com/anacrolix/missinggo",
+			"revision": "dfdb2067b9c04dfa4d7ec1bd2ef93261030ac640",
+			"revisionTime": "2016-07-05T14:42:53Z"
+		},
+		{
+			"checksumSHA1": "c1lrLhhegA7fiaMWAmTXKTWHvmY=",
+			"path": "github.com/bradfitz/iter",
+			"revision": "454541ec3da2a73fc34fd049b19ee5777bf19345",
+			"revisionTime": "2014-01-24T04:19:15Z"
+		}
+	],
+	"rootPath": "github.com/roamz/tagflag"
+}
